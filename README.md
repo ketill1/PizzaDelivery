@@ -1,6 +1,6 @@
 # Autonomous Pizza Delivery
-Wait no more. Help me with this project and get your pizza delivered in the upcoming years.
-![Alt text](url)
+### Wait no more. Help me with this project and get your pizza delivered in the upcoming years.
+![Alt text](./images/_60410425-3a77-4030-a485-ff4c6c5be6b1.jpg)
 
 # Introduction 
 The goal of this project is to do autonomous pizza deliveries from a simple user interface. The system needs to work both outdoors and indoor since my local pizzeria is situated inside a shopping center. Further, it has to plan the path, follow the path, avoid obstacles, and order the pizza upon arrival. To accomplish that safe video feed to the user is needed and the possibility to manually take control when the robot misbehaves.  
@@ -243,14 +243,14 @@ Commands:
 
 ```
 
-###Build
+### Build
 - `colcon build` #Builds the workspace
   - `-args`
   - `-symlink-install` # Installs symbolic links that makes it possible to modify launch files, .yaml and .xml files without having to re-build
   - `-packages-select`<package>`# Build a specific package
   - `source install/setup.bash` # Source the build
 
-###Topics
+### Topics
 - `ros2 topic list` # See all the topics
   - `ros2 topic list -t` # Will return the same list of topics, this time with the topic type appended
 - `ros2 topic echo <topic>` # See the mesages from the topic
@@ -260,7 +260,7 @@ Commands:
 - `ros2 topic hz <msg>` # See the hz of the message 
 - `ros2 interface show <msg type>` # What structure of data the message expects
 
-###Service
+### Service
 - `ros2 service list` # See all the services
   -`ros2 service list -t` # Add the service type
   - `ros2 service find <type_name>` # Find all the service of a certain type
@@ -288,7 +288,7 @@ To load parameters on startup use:
 - `ros2 run <package_name> <executable_name> --remap <from>:=<to>` # Can remap Topics, parameters, and services
 - `ros2 launch <node_name> <launch_script_name.py>`
 
-###Machine
+### Machine
 - `htop` # Monitor processes
 - `sensors` # Monitor temperature
 - `rqt_graph` # Get ros2 graph, structure and more
