@@ -215,26 +215,7 @@ network address, 192.168.1.201, into the address bar [Velodyne](http://192.168.1
 - Motors (?)
 
 # Known issues and improvements
-- Overall the setup in the .yaml can be greatly improved to make the driving smother, faster and go in straigther lines. 
-- Error message of delayed transforms on large maps
-- Gui improvments
-  - Feedback of when the processes has full turned off
-  - Layout
-  - 3D mapping
-  - Voxel layer to se obstacles better
-  - Show all the paths in the buffer
-  - Show direction of the robot
-  - Smarter path planning
-  - Show the distance left and the current waypoint
-  - Change the enviroment and deply on tables
-  - Fix lagging map
-  - Possebilty to make a new swath
-  - import the corc file for each project
- - Hardware
-   - Heat dissipation (maybe add heat flanges under the computer and bettter thermal contact)
-   - Better cabeling the usb to trigger the system
-   - Better wifi connections for the GPR and ROS systems
-
+Add your isssues or improvements here...
 
 # Useful commands when working with ROS2
 - `ros2 --help` # To see all available sub-commands
