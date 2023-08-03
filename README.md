@@ -110,7 +110,7 @@ This will make it possible to ssh to the robot writing the "robot" and get the .
 
 ## Build the project
 ```console
-git clone https://guidelinegeo@dev.azure.com/guidelinegeo/GGEO/_git/AutoGPR
+git clone https://github.com/ketill1/PizzaDelivery.git
 ````
 At the root of your workspace:
 ```console
