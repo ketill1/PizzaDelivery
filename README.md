@@ -1,5 +1,5 @@
 # Autonomous Pizza Delivery
-Wait no more. Help me with this project and get your pizza in the upcoming years.
+Wait no more. Help me with this project and get your pizza delivered in the upcoming years.
 
 # Introduction 
 The goal of this project is to do autonomous pizza deliveries from a simple user interface. The system needs to work both outdoors and indoor since my local pizzeria is situated inside a shopping center. Further, it has to plan the path, follow the path, avoid obstacles, and order the pizza upon arrival. To accomplish that safe video feed to the user is needed and the possibility to manually take control when the robot misbehaves.  
