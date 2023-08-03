@@ -1,10 +1,9 @@
 # PizzaDelivery
-##Wait no more. Help me with this projekt and get your pizza in the upcoming years.
-
+## Wait no more. Help me with this projekt and get your pizza in the upcoming years.
 
 # Introduction 
 
-##Autonomous GPR surveys
+## Autonomous GPR surveys
 The goal of this project is to do autonomous GPR surveys from a simple user interface. The system should work both outdoor and indoor and have the ability to avoid obstacles, plan the path, follow the path, trigger the radar, 
 localizate the robot and create a map of the enviroment. The lifecycle of all the hardware componets is controlled and monitored from the system. 
 
