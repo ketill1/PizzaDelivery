@@ -2,6 +2,13 @@
 ### Wait no more. Help me with this project and get your pizza delivered in the upcoming years.
 ![Alt text](./images/_60410425-3a77-4030-a485-ff4c6c5be6b1.jpg)
 
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCu7FNEBoFNmoqClwuNlX3BQ#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCu7FNEBoFNmoqClwuNlX3BQ#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ketill-hjartarson-131198203/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ketill-hjartarson-131198203/#gh-dark-mode-only)
+
+
 # Introduction 
 The goal of this project is to do autonomous pizza deliveries from a simple user interface. The system needs to work both outdoors and indoor since my local pizzeria is situated inside a shopping center. Further, it has to plan the path, follow the path, avoid obstacles, and order the pizza upon arrival. To accomplish that in a safe way, video feed to the user is needed and the possibility to manually take control when the robot misbehaves.  
 
