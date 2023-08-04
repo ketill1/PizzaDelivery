@@ -9,12 +9,12 @@
 [![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/ketill-hjartarson-131198203/#gh-dark-mode-only)
 
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/@TheRobotTamer)
 
 
 # Introduction 
