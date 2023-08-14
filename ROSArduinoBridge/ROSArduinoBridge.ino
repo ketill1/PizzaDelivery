@@ -1,6 +1,6 @@
 
 /* Serial port baud rate */
-#define BAUDRATE 57600
+#define BAUDRATE 9600
 
 /* Maximum PWM signal */
 #define MAX_PWM 255
@@ -19,8 +19,8 @@
 /* PID parameters and functions */
 #include "diff_controller.h"
 
-/* Run the PID loop at 30 times per second */
-#define PID_RATE 30 // Hz
+/* Run the PID loop at 20 times per second */
+#define PID_RATE 20 // Hz
 
 /* Convert the rate into an interval */
 const int PID_INTERVAL = 1000 / PID_RATE;
