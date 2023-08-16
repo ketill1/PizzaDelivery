@@ -310,3 +310,7 @@ To load parameters on startup use:
 - `rviz2` # visualize topics and send some commands
 - `gazebo` # Simulate the robot
 - `rqt_robot_steering` # simple gui to steer the robot
+
+### Useful links
+- [TensorRt](https://github.com/NVIDIA/TensorRT)
+- [Segmentation AI](https://github.com/NVIDIA/TensorRT](https://github.com/XuJiacong/PIDNet)https://github.com/XuJiacong/PIDNet)
