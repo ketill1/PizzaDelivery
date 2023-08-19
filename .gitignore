@@ -5,3 +5,7 @@
 ./nav2_ws/include/
 ./nav2_ws/install/
 ./nav2_ws/log/
+
+./secrets
+
+./docker/eg6/*/.env
